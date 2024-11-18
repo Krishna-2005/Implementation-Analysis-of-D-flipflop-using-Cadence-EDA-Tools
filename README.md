@@ -66,9 +66,11 @@ ii)	Create Schematic Cell view.
 	+ Click Check and Save button
 
 
+
 ![exp3_schematic](https://github.com/user-attachments/assets/83c21070-552e-4b0c-b50a-562f06a6d2cd)
 
 	
+
  
 iii)	Creating the Symbol for schematic Cell view
 
@@ -84,7 +86,9 @@ iii)	Creating the Symbol for schematic Cell view
 - Check for the position of pin side.Prss OK
 - Edit for the shape by Create-Shape-Choose required options to edit.
 
+
 ![exp3_symbol](https://github.com/user-attachments/assets/5610c21a-e0fd-4dfc-86e5-3dff3f250c2d)
+
 
 iv)	Creating the new test cell view
 
@@ -96,7 +100,9 @@ iv)	Creating the new test cell view
 	+ Type: Schematic press OK
 - Follow the step 3(ii) d to make the required connections
 
+
 ![exp3_sim](https://github.com/user-attachments/assets/2978900c-5a6f-4074-8e69-fcde343adf59)
+
 
 ### Analog simulation by SPECTRE
 
@@ -110,15 +116,19 @@ iv)	Creating the new test cell view
 	+ Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 - Execute Simulation -- Net list and Run
 
+
 ![exp3_trans1](https://github.com/user-attachments/assets/f3381d32-ad2f-4e52-8430-b566b9b6c968)
+
 
 ### For Transient Analysis Settings and Output
 
  + In the simulation setup, choose transient analysis.
  + Specify the time range for the analysis (start and stop time).
  + Run the simulation and observe the output waveforms for the D and Q signals.
+
   
 ![exp3_trans](https://github.com/user-attachments/assets/a479d79b-48a0-4645-bc29-b590a2d1fb92)
+
 
 
 ![exp3_out](https://github.com/user-attachments/assets/31e146f7-2bb8-4c78-b7fc-5a747dd956bf)
